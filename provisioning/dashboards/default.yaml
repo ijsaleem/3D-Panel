@@ -1,0 +1,7 @@
+apiVersion: 1
+
+providers:
+  - name: '3d Graph'
+    type: file
+    options:
+      path: /etc/grafana/provisioning/dashboards
